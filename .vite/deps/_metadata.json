@@ -1,0 +1,103 @@
+{
+  "hash": "5d87e3a5",
+  "configHash": "41e408d8",
+  "lockfileHash": "e3b0c442",
+  "browserHash": "baa2e75b",
+  "optimized": {
+    "react": {
+      "src": "../../node_modules/react/index.js",
+      "file": "react.js",
+      "fileHash": "7860b589",
+      "needsInterop": true
+    },
+    "react/jsx-dev-runtime": {
+      "src": "../../node_modules/react/jsx-dev-runtime.js",
+      "file": "react_jsx-dev-runtime.js",
+      "fileHash": "1cbe873f",
+      "needsInterop": true
+    },
+    "react/jsx-runtime": {
+      "src": "../../node_modules/react/jsx-runtime.js",
+      "file": "react_jsx-runtime.js",
+      "fileHash": "806d4318",
+      "needsInterop": true
+    },
+    "@fortawesome/free-solid-svg-icons": {
+      "src": "../../node_modules/@fortawesome/free-solid-svg-icons/index.mjs",
+      "file": "@fortawesome_free-solid-svg-icons.js",
+      "fileHash": "6ddf55a8",
+      "needsInterop": false
+    },
+    "@fortawesome/react-fontawesome": {
+      "src": "../../node_modules/@fortawesome/react-fontawesome/index.es.js",
+      "file": "@fortawesome_react-fontawesome.js",
+      "fileHash": "bf503cab",
+      "needsInterop": false
+    },
+    "@tanstack/react-query": {
+      "src": "../../node_modules/@tanstack/react-query/build/modern/index.js",
+      "file": "@tanstack_react-query.js",
+      "fileHash": "b954b688",
+      "needsInterop": false
+    },
+    "@tanstack/react-query-devtools": {
+      "src": "../../node_modules/@tanstack/react-query-devtools/build/modern/index.js",
+      "file": "@tanstack_react-query-devtools.js",
+      "fileHash": "d2af7aa6",
+      "needsInterop": false
+    },
+    "@tippyjs/react": {
+      "src": "../../node_modules/@tippyjs/react/dist/tippy-react.esm.js",
+      "file": "@tippyjs_react.js",
+      "fileHash": "056729b5",
+      "needsInterop": false
+    },
+    "react-data-table-component": {
+      "src": "../../node_modules/react-data-table-component/dist/index.es.js",
+      "file": "react-data-table-component.js",
+      "fileHash": "d1037fae",
+      "needsInterop": false
+    },
+    "react-dom/client": {
+      "src": "../../node_modules/react-dom/client.js",
+      "file": "react-dom_client.js",
+      "fileHash": "88b7054b",
+      "needsInterop": true
+    },
+    "react-hot-toast": {
+      "src": "../../node_modules/react-hot-toast/dist/index.mjs",
+      "file": "react-hot-toast.js",
+      "fileHash": "80bbd7f8",
+      "needsInterop": false
+    },
+    "react-router-dom": {
+      "src": "../../node_modules/react-router-dom/dist/index.js",
+      "file": "react-router-dom.js",
+      "fileHash": "c2a84ee5",
+      "needsInterop": false
+    }
+  },
+  "chunks": {
+    "TCDAW7I4-JPHGKPX7": {
+      "file": "TCDAW7I4-JPHGKPX7.js"
+    },
+    "chunk-23WS2YNJ": {
+      "file": "chunk-23WS2YNJ.js"
+    },
+    "chunk-HM4BKXPP": {
+      "file": "chunk-HM4BKXPP.js"
+    },
+    "chunk-MFEDW6NB": {
+      "file": "chunk-MFEDW6NB.js"
+    },
+    "chunk-CAKFYEZR": {
+      "file": "chunk-CAKFYEZR.js"
+    },
+    "chunk-NNCLXYIK": {
+      "file": "chunk-NNCLXYIK.js"
+    },
+    "chunk-3SPBDNLE": {
+      "file": "chunk-3SPBDNLE.js"
+    }
+  }
+}
